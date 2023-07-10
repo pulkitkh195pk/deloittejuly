@@ -1,3 +1,1 @@
-I am learnig unix
-Also I am good at it 
-
+This is my file 
