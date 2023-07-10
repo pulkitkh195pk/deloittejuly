@@ -1,0 +1,2 @@
+I am learning Unix + Git
+Entering random data 
