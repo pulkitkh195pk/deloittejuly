@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is my file 
+=======
+I am learnig unix
+Also I am learnig Git 
+i am learning git
+i am adding a new line 
+>>>>>>> br1
